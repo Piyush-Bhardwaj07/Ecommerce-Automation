@@ -12,57 +12,7 @@ This project demonstrates how to automate the following functionalities on a sam
 🛒 Add to Cart
 ❌ Delete Account
 🛠️ Installation and Setup
-To get started with this project, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/ecommerce-automation.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd ecommerce-automation
-Install dependencies:
-
-bash
-Copy code
-npm install
-Run the tests:
-
-bash
-Copy code
-npx playwright test
-📁 Project Structure
-Here's an overview of the project structure:
-
-go
-Copy code
-ecommerce-automation/
-│
-├── tests/
-│   ├── signup.spec.js
-│   ├── login.spec.js
-│   ├── logout.spec.js
-│   ├── search.spec.js
-│   ├── addToCart.spec.js
-│   └── deleteAccount.spec.js
-│
-├── pages/
-│   ├── signup.page.js
-│   ├── login.page.js
-│   ├── logout.page.js
-│   ├── search.page.js
-│   ├── addToCart.page.js
-│   └── deleteAccount.page.js
-│
-├── utils/
-│   └── helpers.js
-│
-├── .gitignore
-├── package.json
-└── README.md
 🔍 Test Cases
 📝 Sign Up
 Test Case: Ensure a new user can sign up successfully.
