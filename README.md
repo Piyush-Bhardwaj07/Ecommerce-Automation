@@ -12,7 +12,7 @@ This project demonstrates how to automate the following functionalities on a sam
 🛒 Add to Cart
 ❌ Delete Account
 🛠️ Installation and Setup
-
+#
 🔍 Test Cases
 #
 📝 Sign Up
@@ -40,7 +40,7 @@ File: tests/deleteAccount.spec.js
 🧩 Utilities
 helpers.js
 Contains helper functions used across different test cases.
-
+#
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
