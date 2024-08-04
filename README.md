@@ -17,18 +17,22 @@ This project demonstrates how to automate the following functionalities on a sam
 📝 Sign Up
 Test Case: Ensure a new user can sign up successfully.
 File: tests/signup.spec.js
+#
 🔐 Login
 Test Case: Verify that a registered user can log in.
 File: tests/login.spec.js
+#
 🚪 Logout
 Test Case: Check that a logged-in user can log out.
 File: tests/logout.spec.js
+#
 🔍 Search Products
 Test Case: Confirm that users can search for products using the search bar.
 File: tests/search.spec.js
 🛒 Add to Cart
 Test Case: Verify that users can add products to their cart.
 File: tests/addToCart.spec.js
+#
 ❌ Delete Account
 Test Case: Ensure that a user can delete their account.
 File: tests/deleteAccount.spec.js
