@@ -14,6 +14,7 @@ This project demonstrates how to automate the following functionalities on a sam
 🛠️ Installation and Setup
 
 🔍 Test Cases
+#
 📝 Sign Up
 Test Case: Ensure a new user can sign up successfully.
 File: tests/signup.spec.js
